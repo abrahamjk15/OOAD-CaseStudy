@@ -1,4 +1,4 @@
-# OOAD-IsA-Relationship-Banking
+# OOAD-CaseStudy
 ## Class Diagram
 ![Screenshot (52)](https://github.com/abrahamjk15/OOAD-CaseStudy/assets/58914169/c97a104d-f8fb-44cf-b3e7-35d6679ffbcb)
 
